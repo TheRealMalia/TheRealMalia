@@ -2,7 +2,7 @@
 
 <h2> Resume </h2>
 
-- Coming Soon
+- <b>Coming Soon</b>
 
 <h2>👨‍💻 IT Support Projects:</h2>
 
