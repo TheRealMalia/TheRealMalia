@@ -1,5 +1,7 @@
 <h1>Hi, I'm Malia! <br/><a href="https://github.com/joshmadakor1">IT Help Desk Support Technican</a>
 
+<h2> Resume </h2>
+
 <h2>👨‍💻 IT Support Projects:</h2>
 
 - <b> IT Helpdesk Lab – Spiceworks Cloud Help Desk</b>
