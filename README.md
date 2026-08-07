@@ -2,9 +2,11 @@
 
 <h2> Resume </h2>
 
+- Coming Soon
+
 <h2>👨‍💻 IT Support Projects:</h2>
 
-- <b> IT Helpdesk Lab – Spiceworks Cloud Help Desk</b>
+- [IT Helpdesk Lab – Spiceworks Cloud Help Desk](https://github.com/TheRealMalia/IT-Helpdesk-Lab-Spiceworks-Cloud-Help-Desk)
   
 - <b>Active Directory + User Management Lab</b>
   
