@@ -30,11 +30,13 @@
 
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Github" width="22px" src="<a href="https://commons.wikimedia.org/wiki/File:Octicons-mark-github.svg">GitHub Inc.</a>, <a href="http://opensource.org/licenses/mit-license.php">MIT</a>, via Wikimedia Commons" />][github]
+[<img align="left" alt="JoshMadakor | Github" width="22px" src="file:///C:/Users/malia/Downloads/github-logo-6532.svg" />][github]
+
 
 
 
 [linkedin]: https://www.linkedin.com/in/malia-scott-a5ba8722a/
+[github] :
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
