@@ -14,7 +14,11 @@
   
 <h2>Skills</h2>
 
-- <b>Coming Soon</b>
+- <b>Security Fundamentals</b>
+- <b>Networking Fundamentals</b>
+- <b>Log Analysis</b>
+- <b>Threat Identification</b>
+- <b>Incident Response</b>
 
 <h2>Certifications</h2>
 
