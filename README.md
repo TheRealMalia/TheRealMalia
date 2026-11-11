@@ -1,10 +1,10 @@
-<h1>Hi, I'm Malia! <br/><a href="https://github.com/joshmadakor1">IT Help Desk Support Technican</a>
+<h1>Hi, I'm Malia! <br/><a href="https://github.com/joshmadakor1">SOC Analyst</a>
 
 <h2> Resume </h2>
 
 - <b>Coming Soon</b>
 
-<h2>👨‍💻 IT Support Projects:</h2>
+<h2>👨‍💻 SOC Projects:</h2>
 
 - [IT Helpdesk Lab – Spiceworks Cloud Help Desk](https://github.com/TheRealMalia/IT-Helpdesk-Lab-Spiceworks-Cloud-Help-Desk)
   
@@ -13,7 +13,7 @@
 
 <h2>Certifications</h2>
 
-- [IT Customer Support Basics](https://www.credly.com/badges/9ed0090b-7055-49ea-884c-41e0e16ffae9/public_url)
+- [Introduction to Cybersecurity](https://www.credly.com/badges/dab2ec23-6e64-4eb8-b8b6-96a2365b4580/public_url)
 
 
 <h2> 🤳 Connect with me:</h2>
