@@ -6,7 +6,7 @@
 
 - <b>Coming Soon</b>
 
-<h2>👨‍💻 SOC Projects:</h2>
+<h2>SOC Projects:</h2>
 
 - [IT Helpdesk Lab – Spiceworks Cloud Help Desk](https://github.com/TheRealMalia/IT-Helpdesk-Lab-Spiceworks-Cloud-Help-Desk)
   
@@ -30,7 +30,7 @@
 - [IT Customer Support Basics](https://www.credly.com/badges/9ed0090b-7055-49ea-884c-41e0e16ffae9/public_url)
 
 
-<h2> 🤳 Connect with me:</h2>
+<h2>Connect with me:</h2>
 
 - <b>Linkedin: https://www.linkedin.com/in/malia-scott-a5ba8722a/</b>
 - <b>Github: https://github.com/TheRealMalia/TheRealMalia/tree/main</b>
