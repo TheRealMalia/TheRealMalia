@@ -10,6 +10,7 @@
   
 - <b>Active Directory + User Management Lab</b>
   
+<h2>Skills</h2>
 
 <h2>Certifications</h2>
 
