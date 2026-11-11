@@ -1,4 +1,4 @@
-<h1>Hi, I'm Malia! <br/><a href="https://github.com/joshmadakor1">SOC Analyst</a>
+<h1>Hi, I'm Malia! <br/><a href="https://github.com/TheRealMalia/TheRealMalia/tree/main">SOC Analyst</a>
 
   Cybersecurity | Security Operations | Threat Detection
 
