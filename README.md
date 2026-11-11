@@ -30,6 +30,7 @@
 
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | Github" width="22px" src="<a href="https://commons.wikimedia.org/wiki/File:Octicons-mark-github.svg">GitHub Inc.</a>, <a href="http://opensource.org/licenses/mit-license.php">MIT</a>, via Wikimedia Commons" />][github]
 
 
 
