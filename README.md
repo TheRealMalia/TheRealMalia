@@ -1,4 +1,5 @@
 <h1>Hi, I'm Malia! <br/><a href="https://github.com/joshmadakor1">SOC Analyst</a>
+Cybersecurity | Security Operations | Threat Detection
 
 <h2> Resume </h2>
 
@@ -12,9 +13,12 @@
   
 <h2>Skills</h2>
 
+- <b>Coming Soon</b>
+
 <h2>Certifications</h2>
 
 - [Introduction to Cybersecurity](https://www.credly.com/badges/dab2ec23-6e64-4eb8-b8b6-96a2365b4580/public_url)
+- [IT Customer Support Basics](https://www.credly.com/badges/9ed0090b-7055-49ea-884c-41e0e16ffae9/public_url)
 
 
 <h2> 🤳 Connect with me:</h2>
