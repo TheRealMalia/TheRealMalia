@@ -30,13 +30,13 @@
 
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Github" width="22px" src="file:///C:/Users/malia/Downloads/github-logo-6532.svg" />][github]
+[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
 
 
 [linkedin]: https://www.linkedin.com/in/malia-scott-a5ba8722a/
-[github] :
+[instagram]:
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
