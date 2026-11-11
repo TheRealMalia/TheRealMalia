@@ -28,14 +28,8 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-
-
-
-
-
-
-[linkedin]: https://www.linkedin.com/in/malia-scott-a5ba8722a/
-[github]:https://github.com/TheRealMalia/TheRealMalia/tree/main
+- <b>Linkedin: https://www.linkedin.com/in/malia-scott-a5ba8722a/</b>
+- <b>Github: https://github.com/TheRealMalia/TheRealMalia/tree/main</b>
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
