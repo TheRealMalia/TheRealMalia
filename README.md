@@ -36,7 +36,7 @@
 
 
 [linkedin]: https://www.linkedin.com/in/malia-scott-a5ba8722a/
-[github]:
+[github]:https://github.com/TheRealMalia/TheRealMalia/tree/main
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
