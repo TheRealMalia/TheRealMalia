@@ -1,5 +1,6 @@
 <h1>Hi, I'm Malia! <br/><a href="https://github.com/joshmadakor1">SOC Analyst</a>
-Cybersecurity | Security Operations | Threat Detection
+
+  Cybersecurity | Security Operations | Threat Detection
 
 <h2> Resume </h2>
 
