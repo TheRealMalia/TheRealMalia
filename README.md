@@ -1,4 +1,4 @@
-<h1>Hi, I'm Malia! <br/><a href="https://github.com/TheRealMalia/TheRealMalia/tree/main">SOC Analyst</a>
+<h1>Hi, I'm Malia! <br/><a href="https://github.com/TheRealMalia">SOC Analyst</a>
 
   Cybersecurity | Security Operations | Threat Detection
 
@@ -33,7 +33,7 @@
 <h2>Connect with me:</h2>
 
 - <b>Linkedin: https://www.linkedin.com/in/malia-scott-a5ba8722a/</b>
-- <b>Github: https://github.com/TheRealMalia/TheRealMalia/tree/main</b>
+- <b>Github: https://github.com/TheRealMalia</b>
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
