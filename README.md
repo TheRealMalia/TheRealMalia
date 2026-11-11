@@ -10,7 +10,11 @@
 
 - [IT Helpdesk Lab – Spiceworks Cloud Help Desk](https://github.com/TheRealMalia/IT-Helpdesk-Lab-Spiceworks-Cloud-Help-Desk)
   
-- <b>Active Directory + User Management Lab</b>
+- <b>Failed Login Investigation</b>
+- <b>Phishing Email Analysis</b>
+- <b>Brute-Force Attack Investigation</b>
+- <b>SIEM Alert Investigation</b>
+- <b>Incident Response Report</b>
   
 <h2>Skills</h2>
 
